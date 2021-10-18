@@ -1,4 +1,10 @@
-# EVA07 Session 4 Assignment by Sachin Dangayach
+# EVA07 Session 4 Assignment
+
+### Submission by:
+1. Sachin Dangayach (sachin.dangayach@gmail.com)
+2. Vignesh Babu P J (vigneshbabupj@gmail.com)
+3. Sherine 
+4. Malathi M
 
 # PART A
 
@@ -12,17 +18,17 @@
 ## Solution:
   - Screenshot of excel -
 
-  ![alt](https://github.com/SachinDangayach/EVA07/blob/master/Session_04/Images/Excel_NN.JPG)
+  ![alt](https://github.com/vigneshbabupj/EVA07/blob/main/Session_04/Images/Excel_NN.JPG)
 
 ### Excel file must be there for us to cross-check the image shown on readme (no image = no score)
 
 ## Solution:  
-**[Link to excel](https://github.com/SachinDangayach/EVA07/blob/master/Session_04/NN%20Training.xlsx)**
+**[Link to excel](https://github.com/vigneshbabupj/EVA07/blob/main/Session_04/NN%20Training.xlsx)**
 
 ### Explain each major step
 
 ## Solution:  
-![alt](https://github.com/SachinDangayach/EVA07/blob/master/Session_04/Images/NN.png)
+![alt](https://github.com/vigneshbabupj/EVA07/blob/main/Session_04/Images/NN.png)
 ***NN parameters, activation function output and loss calculation***  
 h1 = w1 * i1+w2 * i2  
 h2 = w3 * i1+w4 * i2  
@@ -75,27 +81,27 @@ Similarly -
 ## Solution:  
 ***Total Loss per epoch for Learning Rate = 0.1***
 
-![alt](https://github.com/SachinDangayach/EVA07/blob/master/Session_04/Images/lr_01.JPG)
+![alt](https://github.com/vigneshbabupj/EVA07/blob/main/Session_04/Images/lr_01.JPG)
 
 ***Total Loss per epoch for Learning Rate = 0.2***
 
-![alt](https://github.com/SachinDangayach/EVA07/blob/master/Session_04/Images/lr_02.JPG)
+![alt](https://github.com/vigneshbabupj/EVA07/blob/main/Session_04/Images/lr_02.JPG)
 
 ***Total Loss per epoch for Learning Rate = 0.5***
 
-![alt](https://github.com/SachinDangayach/EVA07/blob/master/Session_04/Images/LR_05.JPG)
+![alt](https://github.com/vigneshbabupj/EVA07/blob/main/Session_04/Images/LR_05.JPG)
 
 ***Total Loss per epoch for Learning Rate = 0.8***
 
-![alt](https://github.com/SachinDangayach/EVA07/blob/master/Session_04/Images/LR_08.JPG)
+![alt](https://github.com/vigneshbabupj/EVA07/blob/main/Session_04/Images/LR_08.JPG)
 
 ***Total Loss per epoch for Learning Rate = 1***
 
-![alt](https://github.com/SachinDangayach/EVA07/blob/master/Session_04/Images/LR_1.JPG)
+![alt](https://github.com/vigneshbabupj/EVA07/blob/main/Session_04/Images/LR_1.JPG)
 
 ***Total Loss per epoch for Learning Rate = 2***
 
-![alt](https://github.com/SachinDangayach/EVA07/blob/master/Session_04/Images/LR_2.JPG)
+![alt](https://github.com/vigneshbabupj/EVA07/blob/main/Session_04/Images/LR_2.JPG)
 
 
 # PART B

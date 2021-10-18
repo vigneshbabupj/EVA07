@@ -43,7 +43,7 @@ Design choices we made while building the network:
 
 
 The summary of the network looks like this:  
-![Model Summary](https://github.com/SachinDangayach/END2.0/blob/main/Session3/images/Model%20Parameters.jpg)
+![Model Summary](https://github.com/vigneshbabupj/EVA07/blob/main/Session_02.5/images/Model%20Parameters.jpg)
 
 
 
@@ -69,20 +69,20 @@ Here are the loss and accuracy charts from training the network:
 
 
 Training Logs  
-![Training Logs Screenshot](https://github.com/SachinDangayach/EVA07/blob/master/Session_03/images/training_logs.png)
+![Training Logs Screenshot](https://github.com/vigneshbabupj/EVA07/blob/main/Session_02.5/images/training_logs.png)
 
 
 Training Loss By Epochs  
-![Chart - Training Losses by Epochs](https://github.com/SachinDangayach/EVA07/blob/master/Session_03/images/training_loss_by_epochs.png)
+![Chart - Training Losses by Epochs](https://github.com/vigneshbabupj/EVA07/blob/main/Session_02.5/images/training_loss_by_epochs.png)
 
 
 Digit Recognition Accuracy By Epochs  
-![Chart - Digit Recognition Accuracy by Epochs](https://github.com/SachinDangayach/EVA07/blob/master/Session_03/images/test_acc_by_epochs_dra.png)
+![Chart - Digit Recognition Accuracy by Epochs](https://github.com/vigneshbabupj/EVA07/blob/main/Session_02.5/images/test_acc_by_epochs_dra.png)
 
 
 Addition Accuracy By Epochs  
-![Chart - Addition Accuracy by Epochs](https://github.com/SachinDangayach/EVA07/blob/master/Session_03/images/test_acc_by_epochs_aa.png)
+![Chart - Addition Accuracy by Epochs](https://github.com/vigneshbabupj/EVA07/blob/main/Session_02.5/images/test_acc_by_epochs_aa.png)
 
 
 Training Loss By Batch Iterations  
-![Chart - Training Losses by Epochs](https://github.com/SachinDangayach/EVA07/blob/master/Session_03/images/training_loss_by_batch_iterations.png)
+![Chart - Training Losses by Epochs](https://github.com/vigneshbabupj/EVA07/blob/main/Session_02.5/images/training_loss_by_batch_iterations.png)
