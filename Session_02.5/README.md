@@ -1,6 +1,9 @@
 
 ### Submission by:
 1. Sachin Dangayach (sachin.dangayach@gmail.com)
+2. Vignesh Babu P J (vigneshbabupj@gmail.com)
+3. Sherine 
+4. Malathi M
 
 [Here is the notebook where training was done](https://colab.research.google.com/drive/1HgUOegJqxjCN5ZvlbH1L04uLfBr2eDgg?usp=sharing)
 
