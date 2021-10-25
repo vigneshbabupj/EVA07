@@ -31,7 +31,7 @@ Target:
     - Very Big kernel is used - Can be replaced by GAP
     - There is scope of accuracy improvement
 
-File : ![Link](https://github.com/vigneshbabupj/EVA07/blob/main/Session_05/EVA_S5_Step_0.ipynb)
+File : [Link](https://github.com/vigneshbabupj/EVA07/blob/main/Session_05/EVA_S5_Step_0.ipynb)
 
 ## Step -2
 
@@ -49,7 +49,7 @@ File : ![Link](https://github.com/vigneshbabupj/EVA07/blob/main/Session_05/EVA_S
     - model can be improved
     - No of parameters is still above 10K mark
 
-File : ![Link](https://github.com/vigneshbabupj/EVA07/blob/main/Session_05/EVA_S5_Step_1.ipynb)
+File : [Link](https://github.com/vigneshbabupj/EVA07/blob/main/Session_05/EVA_S5_Step_1.ipynb)
 
 ## Step -3
 
@@ -67,7 +67,7 @@ File : ![Link](https://github.com/vigneshbabupj/EVA07/blob/main/Session_05/EVA_S
     - model can be improved
     - Accuracy is not consistent ( keep changing drastically for each Epoch) - Will introduct LR scheduler to control this
 
-File : ![Link](https://github.com/vigneshbabupj/EVA07/blob/main/Session_05/EVA_S5_Step_2.ipynb)
+File : [Link](https://github.com/vigneshbabupj/EVA07/blob/main/Session_05/EVA_S5_Step_2.ipynb)
     
 ## Step -4
 
@@ -85,5 +85,5 @@ File : ![Link](https://github.com/vigneshbabupj/EVA07/blob/main/Session_05/EVA_S
     - Getting target accuracy consistently
     - next try to reduce params below 8k
 
-File : ![Link](https://github.com/vigneshbabupj/EVA07/blob/main/Session_05/EVA_S5_Step_3.ipynb)
+File : [Link](https://github.com/vigneshbabupj/EVA07/blob/main/Session_05/EVA_S5_Step_3.ipynb)
 
