@@ -2,9 +2,6 @@
 
 By:
   - Vignesh Babu P J -> vigneshbabupj@gmail.com
-  - Srivatsan -> srivatsanmurugan96@gmail.com
-  - Ravi Shankar- > ravishankar2k4@gmail.com
-  - Siddhartha -> lezaroth3@gmail.com
 
 Convolution neural network designed to clasify the images of the MNIST dataset in Pytorch
 
@@ -34,6 +31,8 @@ Target:
     - Very Big kernel is used - Can be replaced by GAP
     - There is scope of accuracy improvement
 
+    File : ![Link](https://github.com/vigneshbabupj/EVA07/blob/main/Session_05/EVA_S5_Step_0.ipynb)
+
 ## Step -2
 
     Target:
@@ -50,6 +49,8 @@ Target:
     - model can be improved
     - No of parameters is still above 10K mark
 
+    File : ![Link](https://github.com/vigneshbabupj/EVA07/blob/main/Session_05/EVA_S5_Step_1.ipynb)
+
 ## Step -3
 
     Target :
@@ -65,6 +66,8 @@ Target:
     - no overfitting - slight underfitting
     - model can be improved
     - Accuracy is not consistent ( keep changing drastically for each Epoch) - Will introduct LR scheduler to control this
+
+    File : ![Link](https://github.com/vigneshbabupj/EVA07/blob/main/Session_05/EVA_S5_Step_2.ipynb)
     
 ## Step -4
 
@@ -81,4 +84,6 @@ Target:
     - Still no overfitting
     - Getting target accuracy consistently
     - next try to reduce params below 8k
+
+    File : ![Link](https://github.com/vigneshbabupj/EVA07/blob/main/Session_05/EVA_S5_Step_3.ipynb)
 
